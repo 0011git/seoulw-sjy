@@ -42,7 +42,7 @@
 |:--------:|:---------------------------------------:|:-------------------:|:----:|
 | 고유나 | [tolix-a](https://github.com/tolix-a) | 기능개발, API     |     |
 | 박지연 | [pjiyeon90](https://github.com/pjiyeon90) | 디자인, 로그인    |     |
-| 성주영 | [0011git](https://github.com/0011git) | 기획, 팀장            | ✔    |
+| **성주영** | [0011git](https://github.com/0011git) | 기획, 팀장            | ✔    |
 | 허다영 | [Pon119](https://github.com/Pon119) | 서버관리, 배포    |     |
 
 
