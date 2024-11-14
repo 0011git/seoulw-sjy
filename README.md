@@ -139,7 +139,7 @@
    : [메인](https://seoulw.vercel.app/),
   [에러페이지](https://seoulw.vercel.app/err),
   [이용약관](https://seoulw.vercel.app/policy)
-  <span style="color: gray; font-size: 0.5em;">(클릭 시 외부 링크로 이동합니다.)</span>
+  ${\color{#cccccc}(클릭\ 시\ 해당\ 페이지로\ 이동합니다.)}$
 
 - **역할** 
   #### (1) 기획
