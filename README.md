@@ -167,14 +167,14 @@
 - 문서화 : [Google Docs](https://docs.google.com/document/d/1Ieh-tqHfDDQsXYfCo3cP_YHhUgt8ATDOMHSVXXcL5fs/edit?tab=t.0)
 
 <details>
-  <summary>$\bf{{\color{#00B106}정보\ 설계:\ 구조}}$</summary>
+  <summary>$\bf{{\color{#0969DA}정보\ 설계:\ 구조}}$</summary>
   
   ![seoulw_정보설계](https://github.com/user-attachments/assets/a2aac419-6649-4a1e-9212-3a64d2ccd293)
 </details>
 
 
 <details>
-<summary>$\bf{\rm{\color{#00B106}추가\ 설명:\ API\ URL}}$</summary>
+<summary>$\bf{\rm{\color{#0969DA}추가\ 설명:\ API\ URL}}$</summary>
 	
   ### < API URL >
   #### 1. 공통
