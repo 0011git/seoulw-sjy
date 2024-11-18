@@ -6,8 +6,7 @@
 ## 🌱 소개
 서울 문화 공연 정보 PWA 사이트 **Seoul, W**입니다.
 
-![seoulw_main](https://github.com/user-attachments/assets/5f4caca1-7443-4e66-966d-01231c131397)
-
+![seoulw_sub (3)](https://github.com/user-attachments/assets/060e9daa-d00c-49b2-8adb-213097e32366)
 
 
 ## 🔗 배포 URL
@@ -243,6 +242,8 @@
 
 
 ## 🧩 공통 컴포넌트 제작
+: 기획 및 디자인 단계 이후 공통으로 사용할 컴포넌트를 구분해 제작
+
 ### 1.  로딩 
 - [CSS Loaders](https://css-loaders.com/)에서 애니메이션 선택, ![FF4B77](https://github.com/user-attachments/assets/578b5d58-d2d8-4324-94f6-0be6ea7355fd)```#FFD4DF``` 테마색으로 변경
 
