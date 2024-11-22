@@ -295,4 +295,11 @@
 
 ---
 ## 📱 스크린샷
+![seoulw_thumbnail (1)](https://github.com/user-attachments/assets/57ce1039-c49c-47e9-8073-0af1299515f4)
+<!--
+<details>
+  <summary>$\bf{{\color{#0969DA}이미지}}$</summary>
+
 ![t](https://github.com/user-attachments/assets/dd46735e-4f07-4ab9-9eb6-7377388ddaa3)
+</details>
+-->
